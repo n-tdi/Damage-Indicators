@@ -1,0 +1,9 @@
+name: DamageIndicator
+version: '${project.version}'
+main: world.ntdi.damageindicator.DamageIndicator
+api-version: 1.19
+prefix: DmgIndicator
+load: STARTUP
+authors: [ Ntdi ]
+description: A Plugin to indicate how much damage you've done!
+website: Ntdi.world
